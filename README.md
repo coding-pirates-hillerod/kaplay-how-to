@@ -6,7 +6,16 @@ Dette Et repo forsøger via diverse "How to" at vise, hvordan man laver forskell
 
 I det følgende kan man finde "How to's" for:
 
+- Scener
 - Knapper
+
+### Scener
+
+Alle følgende "How to's" vedr. knapper kan findes under mappen <code>scenes</code>.
+
+#### Skift scene
+
+Et eksempel på hvordan man laver en knap med tekst kan findes under mappen <code>change-scene</code>.
 
 ### Knapper
 
