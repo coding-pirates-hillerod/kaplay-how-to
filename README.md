@@ -1,4 +1,15 @@
 # kaplay-how-to
-Et repo der med eksempler forsøger at vise, hvordan man laver forskellige ting (fx sceneskift, knapper osv.) med KAPLAY.
 
+Dette Et repo forsøger via diverse "How to" at vise, hvordan man laver forskellige ting (fx sceneskift, knapper osv.) med KAPLAY.
 
+## How to
+
+I det følgende kan man finde "How to's" for:
+
+- Knapper
+
+### Knapper
+
+#### Knap med tekst
+
+Et eksempel på hvordan man laver en knap med tekst kan findes under mappen <code>make-text-button</code>.
