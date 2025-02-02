@@ -10,6 +10,8 @@ I det følgende kan man finde "How to's" for:
 
 ### Knapper
 
+Alle følgende "How to's" vedr. knapper kan findes under mappen <code>buttons</code>.
+
 #### Knap med tekst
 
 Et eksempel på hvordan man laver en knap med tekst kan findes under mappen <code>make-text-button</code>.
